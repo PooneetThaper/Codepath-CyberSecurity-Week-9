@@ -14,8 +14,8 @@ I simply deployed the Dionaea honeypot on an instance on GCP.
    
 ## Summary of data:
 
-Number of attacks:  	2427
-Payloads:             None
+- Number of attacks:  	2427
+- Payloads:             None
 
 ## Unresolved Questions:
 
